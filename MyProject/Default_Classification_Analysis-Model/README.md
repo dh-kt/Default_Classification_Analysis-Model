@@ -74,4 +74,4 @@ A model predicting "No" for everyone achieves 96.7% accuracy. Therefore, we use:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/default_classification_analysis.git
+git clone https://github.com/dh-kt/Default_Classification_Analysis-Model
