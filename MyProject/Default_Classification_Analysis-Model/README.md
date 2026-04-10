@@ -1,4 +1,4 @@
-##Default Classification - Credit Card Default Prediction
+# Default Classification - Credit Card Default Prediction
 
 ### Problem Statement
 Predict whether a customer will default on their credit card payment using balance and income.
